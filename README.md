@@ -1,0 +1,3 @@
+# TetrisBot
+Tetris discord bot...
+Code's kinda bad but you know it is what it is.
